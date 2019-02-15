@@ -83,7 +83,7 @@ def all_supplies_in_holidays(holiday_hash)
         puts "#{hol_str}: #{suppl_str}"
       end
     end
-  end 
+  end
 
 
 
