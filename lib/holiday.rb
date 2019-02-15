@@ -77,7 +77,7 @@ def all_supplies_in_holidays(holiday_hash)
           hol_str += word.capitalize!
         end
         suppl_str = supplies.join(",")
-        end
+        
         puts "#{hol_str}: #{suppl_str}"
       else
         hol_str.capitalize!
